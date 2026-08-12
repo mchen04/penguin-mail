@@ -130,7 +130,7 @@ cd frontend && npm run dev
 ## Project Structure
 
 ```
-penguin_mail/
+penguin-mail/
 ├── backend/
 │   ├── manage.py
 │   ├── requirements.txt
